@@ -16,8 +16,15 @@ For complete assembly instructions and additional technical details, please refe
 
 Kits will be available through LDO Motor's Vendor Channels. Check your favourite vendor for the latest availability.
 
+**OPTIONS**
 
-For support, please visit this [link](https://discord.gg/MPZ4cHm9gm) and visit the Jabberwocky channels. 
+Currently, there are three types of kits you can purchase.
+
+- Prebuilt Jabberwocky Kit - This is the fully assembled at the LDO facility and ready to install in your printer (after you print the correct mounting plate for your printer). It is intended to save time or for less effort. 
+- Standard Jabberwocky Kit - Also sometimes referred to as DIY or Unassembled. This is the recommended kit for beginners to advanced users. Visit this [Wiki](https://github.com/kinematicdigit/Jabberwocky/wiki) link for instructions.
+- Basic Jabberwocky Kit - This is intended for open development or advanced users who want to use different toolheads and different electronics. Examples like UHF Rapido or upcoming Revo toolheads are being developed. Visit the [discord](https://discord.gg/MPZ4cHm9gm) channel to find out what third-party or independent users have created for the Basic Jabberwocky Kits.
+
+For general support, please visit this [link](https://discord.gg/MPZ4cHm9gm) and visit the Jabberwocky channels. 
 
 ---
 >**Acknowledgments and Thank You**
