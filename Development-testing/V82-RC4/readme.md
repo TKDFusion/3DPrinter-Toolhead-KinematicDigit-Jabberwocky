@@ -1,4 +1,4 @@
-These are beta test files for Revision V82. 
+These are early release test files for Revision V82, but are fully tested and near release. 
 
 This is Release Candidate 4 (RC4) that combines all the older files and replaced with changed files from the V82RC builds. 
 
