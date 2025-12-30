@@ -4,7 +4,7 @@ This was designed to properly mount the NiteHawk36 to the Jabberwocky Toolhead w
 
 The spacer is not required, but without it the mount sits directly against the back of the extruder stepper.
 
-This is a remix of [UserMods/TheSin-/PCB36_Mount/PCBMount.stl](../../TheSin-/PCB36_Mount/PCBMount.stl) and is intended to be used with [UserMods/Nic335/NH36Sock/SplitSock.3mf](../../Nic335/NH36Sock/SplitSock.3mf) for attaching the umbilical
+This is a remix of [https://github.com/DraftShift/StealthChanger/tree/main/UserMods/TheSin-/PCB36_Mount/PCBMount.stl] and is intended to be used with [https://github.com/DraftShift/StealthChanger/tree/main/UserMods/Nic335/NH36Sock/SplitSock.3mf] for attaching the umbilical
  
 <table>
   <tr>
