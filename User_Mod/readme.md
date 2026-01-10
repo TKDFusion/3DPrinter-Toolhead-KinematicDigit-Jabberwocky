@@ -1,5 +1,10 @@
 **User Mods for Jabberwocky**
 
+User mod contributions are used at your own risk, and support is provided by their respective creators (visit the Discord channel to find each user). 
+
+Thank you to all our contributors for their work.
+
+Directory and description:
 - BO_Andy - BFI Adapter and Ramalama Adapter
 - dreb1981- Hex Fan Grill, Shroud Body, and Hex Diffuser
 - FizzysTech - Archive of various V75 parts
