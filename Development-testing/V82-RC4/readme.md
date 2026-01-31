@@ -11,10 +11,11 @@ The following files have changed from the previous build of V81 and older.
 - NH36 Mounting Bracket Strain Relief Offset - new tube offset that keeps it away from the main cable
 - Shroud Body - Wire channel updates and deeper channels
 - Blade Holder LDO - new print orientation to make it stronger and easier to install
-- Conch Mount - Corrected for some misalignment issues if the screws were too tight. The mount screw can now be partially preloaded to make installation on the carriage mount easier.
+- Conch Mount - Corrected for some misalignment issues if the screws were too tight. The mount screw can now be partially preloaded to make installation on the carriage mount easier. New print supports
 - Bearing Install Cap - smaller install cap so it can be used for installing bearings in both motor and mid-body
-- Mid Body ECAS - geometry and engineering changes to improve flow (improvements made to address poorly tuned prints or to compensate for build quality). A new bearing void profile has been designed, and an improved boss helps ensure that bearing installation is performed correctly. These improvements will also extend the life of the kinetic parts. ECAS body and future P4-M10 bodies have been strengthened.
+- Mid Body ECAS - geometry and engineering changes to improve flow (improvements made to address poorly tuned prints or to compensate for build quality). A new bearing void profile has been designed, and an improved boss helps ensure correct bearing installation. These improvements will also extend the life of the kinetic parts. ECAS body and future P4-M10 bodies have been strengthened.
 - Motor Mount - geometry and engineering changes to match improvements made in the Mid Body. Additional countermeasures adjusted to motor mounts to prevent over-tightening of the main drive gear.
 - Guidler - adjusted geometry to compensate for improvements made in the mid-body
+- Front Cover - small adjustment made to improve printing
 
 Please report any feedback to the official Discord channel.
