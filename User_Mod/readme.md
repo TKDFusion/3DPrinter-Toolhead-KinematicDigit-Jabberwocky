@@ -18,4 +18,4 @@ Directory and description:
 - PiDG - Various Voron Switchwire parts
 - Sjack1209 - JW Stealthchanger NH36 Mount
 - LAYERCORE3D - Cable Management, SOVOL08 Support, and more
-- robinbihun - [Chunky Alpaca](https://www.printables.com/model/678823-voron-24-trident-chunky-alpaca-tensioners) Adapter
+- sidjdosjsid - Mandella Rose Works - Trident Belt Tensioner Adapter
